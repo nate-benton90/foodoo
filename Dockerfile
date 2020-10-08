@@ -1,2 +1,2 @@
-FROM nathanbenton/topanga
+FROM alpine
 
